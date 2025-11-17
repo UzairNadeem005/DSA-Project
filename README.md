@@ -11,7 +11,7 @@ Designed with dynamic gameplay and smooth logic, this project demonstrates the u
 **Group Members:**  
 ✔ Muhammad Taqi (Group Lead) — CT-24027  
 ✔ Uzair Nadeem  - CT-24037  
-✔ Muhammad Abdullah — CT-24026 
+✔ Muhammad Abdullah — CT-24026   
 ✔ Muhammad Ibtissam Aslam — CT-24020  
 
 ---
