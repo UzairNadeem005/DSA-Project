@@ -78,5 +78,3 @@ templates for easy iteration, and priority queues ensure optimal targeting by to
 Constants, primitive variables, and strings support game state tracking, visual 
 representation, and UI messages. Overall, the project integrates strategy, resource 
 management, and object-oriented design to create a responsive and scalable game system.
-
----
