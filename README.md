@@ -71,12 +71,12 @@ Provides efficient targeting without scanning the entire battlefield.
 ---
 
 ## ✨ Summary  
-The Tower Defence game demonstrates the effective use of multiple data structures for gameplay.  
-Classes handle tower, unit, projectile, and game logic.  
-Linked lists manage dynamic unit movement and wave flow.  
-Vectors store projectiles and wave templates for efficient iteration.  
-Priority queues allow optimized target selection for towers.
-
-Together, these structures combine strategy, resource management, and object-oriented design into a responsive and scalable game system.
+The Tower Defence game demonstrates the effective use of multiple data structures for 
+gameplay. Classes provide design for towers, units, projectiles, and game logic, while linked 
+lists efficiently handle dynamic unit management. Vectors store projectiles and wave 
+templates for easy iteration, and priority queues ensure optimal targeting by towers. 
+Constants, primitive variables, and strings support game state tracking, visual 
+representation, and UI messages. Overall, the project integrates strategy, resource 
+management, and object-oriented design to create a responsive and scalable game system.
 
 ---
